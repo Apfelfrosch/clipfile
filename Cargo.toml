@@ -1,0 +1,10 @@
+[package]
+name = "clipfile"
+version = "0.1.0"
+edition = "2021"
+description = "Copy a file path to the system clipboard"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Apfelfrosch/clipfile"
+
+[dependencies]
